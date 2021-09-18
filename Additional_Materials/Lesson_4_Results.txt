@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	mismatch	gapopen	qstart	qend	sstart	send	evalue	bitscore
+Ectocarpus_siliculosus_CBN76684.1_Sterol_methyltransferase	sp|P25087|ERG6_YEAST_Sterol_24-C-methyltransferase	43.296	358	182	3	75	413	13	368	2.78e-100	301
