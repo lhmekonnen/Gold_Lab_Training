@@ -1,0 +1,3 @@
+"sp|Q08054|CSI2_YEAST_Chitin_synthase_3_complex_protein_CSI2"
+"sp|P24813|AP2_YEAST_AP-1-like_transcription_factor_YAP2"
+"sp|Q01389|BCK1_YEAST_Serine/threonine-protein_kinase_BCK1/SLK1/SSP31"
